@@ -62,4 +62,4 @@ def postfilter_items(user_id, recommednations):
 
 
 if __name__ == "__main__":
-    print ('Utils is main, smile')
+    print ('its ok')
