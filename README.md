@@ -1,2 +1,2 @@
 # Recommendation_systems
-Recommendation systems course on GB
+Recommender systems course on GB
